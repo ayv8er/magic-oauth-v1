@@ -1,3 +1,4 @@
-# Magic Dedicated Wallet Google Social Login
+Magic OAuth v1
 
-Please [click here](https://magic.link/docs/authentication/features/social-logins/social-providers/google) for full implementation instructions
+- magic-sdk
+- @magic-ext/oauth
